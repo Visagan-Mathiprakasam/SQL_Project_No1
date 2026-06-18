@@ -48,7 +48,7 @@ Tables used:
 
 # Analysis
 
-## 1. Top Paying Data Analyst Jobs in India
+## 1. Top Paying Data Analyst Jobs in India: [View SQL Query](/Project_Sql/Query_1_Top_paying_Jobs.sql)
 
 ### Objective
 
@@ -70,7 +70,7 @@ Identify the highest-paying Data Analyst jobs in India with available salary inf
 
 ---
 
-## 2. Skills Required for Top-Paying Jobs
+## 2. Skills Required for Top-Paying Jobs: [View SQL Query](/Project_Sql/Query_2_Top_Skills.sql)
 
 ### Objective
 
@@ -101,7 +101,7 @@ The highest-paying Data Analyst roles increasingly combine traditional analytics
 
 ---
 
-## 3. Most In-Demand Skills in India
+## 3. Most In-Demand Skills in India: [View SQL Query](/Project_Sql/Query_3_Top_demanded_Skills.sql)
 
 ### Objective
 
@@ -124,7 +124,7 @@ Identify the skills most frequently requested by employers.
 
 ---
 
-## 4. Highest-Paying Skills
+## 4. Highest-Paying Skills: [View SQL Query](/Project_Sql/Query_4_Top_paying_Skills.sql)
 
 ### Objective
 
@@ -149,7 +149,7 @@ Many of the highest-paying skills belong to database, cloud, and big-data ecosys
 
 ---
 
-## 5. Most Optimal Skills to Learn
+## 5. Most Optimal Skills to Learn: [View SQL Query](/Project_Sql/Query_5_Optimal_Skills.sql)
 
 ### Objective
 
